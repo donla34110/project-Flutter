@@ -23,7 +23,7 @@ class _ItemsState extends State<Items> {
           padding: const EdgeInsets.all(40),
           child: Text(
             data[index],
-            style: const TextStyle(fontSize: 30,fontWeight: FontWeight.bold),
+            style: const TextStyle(fontSize: 20,fontWeight: FontWeight.bold),
             ),
             
         );
